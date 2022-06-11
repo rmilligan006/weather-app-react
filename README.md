@@ -1,3 +1,9 @@
+<h1>TO DO:</h1>
+Need to make the project responsive. Right now, it only works on tablets. Need to find a quick fix to allow the icons to be at the bottom of the search bar. 
+
+Also need to make sure the API call is only called once at the beginning.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
